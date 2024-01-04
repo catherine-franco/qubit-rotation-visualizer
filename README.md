@@ -65,4 +65,4 @@ This project outlines a Tkinter-based GUI application for visualizing single-qub
 5. Clear the display or get more information about the project using the provided buttons.
 
 ## Visual
- ![Bloch Sphere Visualization](qubitvisual.png)
+ ![Bloch Sphere Visualization](qcircuit.png)
